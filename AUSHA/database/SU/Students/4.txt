@@ -1,0 +1,1 @@
+{"nationality":"American","Education":"Bachelors","name":"John","Stream":"EE","age":26,"objectId":"4"}

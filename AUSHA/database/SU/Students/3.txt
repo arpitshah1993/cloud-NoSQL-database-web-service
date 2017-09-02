@@ -1,0 +1,1 @@
+{"nationality":"Indian","Education":"Masters","name":"Kunal","Stream":"CS","age":23,"objectId":"3"}

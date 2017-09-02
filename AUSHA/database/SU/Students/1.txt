@@ -1,0 +1,3 @@
+{"nationality":"Indian","Education":"Masters","name":"Arpit","Stream":"CE","age":23,"objectId":"1"}
+{"nationality":"Indian","Education":"Masters","name":"Johny","Stream":"CE","age":23,"objectId":"1"}
+{"nationality":"Indian","Education":"Masters","name":"Zach","Stream":"CE","age":23,"objectId":"1"}
